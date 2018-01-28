@@ -5,6 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - MultipleChoicesPanelContainer
+  - Budova
+  - Blok
+  - Turret
+  - Zombie
+  - Autobus
+  - Hriste
+  - Prekazka
+  - BlackMarket
+  - test
   layers:
   - Default
   - TransparentFX
@@ -14,9 +23,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Obstacle
+  - Shootable
+  - Ground
   - 
   - 
   - 
